@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="https://jakarta.ee/xml/ns/jakartaee"
+	xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+	id="WebApp_ID" version="6.0">
+	<display-name>LearningServlet</display-name>
+	<!-- <servlet>
+		<servlet-name>abc</servlet-name>
+		<servlet-class>com.sonu.AddServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>abc</servlet-name>
+		<url-pattern>/add</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>def</servlet-name>
+		<servlet-class>com.sonu.MyServlet</servlet-class>
+		<init-param>
+			<param-name>name</param-name>
+			<param-value>Ravi</param-value>
+		</init-param>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>def</servlet-name>
+		<url-pattern>/home</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>pqr</servlet-name>
+		<servlet-class>com.sonu.SquareServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>pqr</servlet-name>
+		<url-pattern>/sq</url-pattern>
+	</servlet-mapping>
+	<context-param>
+		<param-name>name</param-name>
+		<param-value>Sonu</param-value>
+	</context-param>
+	<context-param>
+		<param-name>Phone</param-name>
+		<param-value>Redmi</param-value>
+	</context-param> -->
+</web-app>
